@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.larryzhao.taxonideaplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.larryzhao.taxonideaplugin.MyBundle
 
 class MyApplicationService {
 
